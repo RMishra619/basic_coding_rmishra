@@ -1,4 +1,4 @@
-# basic_coding_rmishra
+# Basic_Coding_rmishra
 A simple repo to store basic coding questions for future use.
 
 ### You can also contribute to this repository. And also save it for later use.
